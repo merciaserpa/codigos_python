@@ -1,5 +1,5 @@
 valor = float(input("Informe o valor: "))
-metodo = int(input("informe o metodo de pagamento: 1-PIX, 2-Cartão á vista , 3- Cartão 2vezes , 4- Cartão 3vezes "))
+metodo = int(input("informe o metodo de pagamento: 1-Pix, 2-Cartão á vista , 3- Cartão 2vezes , 4- Cartão 3vezes "))
 
 if metodo==1:
     desconto= valor*0.15
